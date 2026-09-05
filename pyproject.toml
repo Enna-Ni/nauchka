@@ -3,7 +3,7 @@ name = "nauchka"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = [
     "astropy>=8.0.1",
     "astroquery>=0.4.11",
